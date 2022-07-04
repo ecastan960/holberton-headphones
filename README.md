@@ -4,6 +4,8 @@
 
 This proyect consist in developing a web page from scratch without the help of a library or a framework.
 
+![App Screenshot](./images/Header.png)
+
 ## Key topics
 
 The following topics are covered in the
